@@ -3,7 +3,7 @@ import styled from "styled-components/native";
 import { Feather } from "@expo/vector-icons";
 import theme from "../../global/styles/theme";
 
-import { GestureHandlerRootView } from "react-native-gesture-handler";
+import { GestureHandlerRootView } from 'react-native-gesture-handler'
 
 interface CategoryProps {
     isActive: boolean;
